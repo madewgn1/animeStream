@@ -29,7 +29,7 @@
 </b:if></b:if>
 <b:if cond='data:blog.url == data:blog.homepageUrl'>
 <meta content='download anime, anime , manga , light novel , novel , live action , subtitle indonesia , download batch anime' name='keywords'/>
-<meta content='Anime Subtitle Indonesia, Anime Sub Indo, Streaming Anime Subtitle Indonesia, Streaming Anime Sub Indo, DownloadDownload Anime Batch Subtitle Indonesia' name='description'/></b:if>
+<meta content='Anime Subtitle Indonesia, Anime Sub Indo, Streaming Anime Subtitle Indonesia, Streaming Anime Sub Indo, Download Anime Batch Subtitle Indonesia' name='description'/></b:if>
 <!--Meta Canoncial-->
 <link expr:href='data:blog.homepageUrl + &quot;feeds/posts/default&quot;' expr:title='data:blog.title + &quot; - Atom&quot;' rel='alternate' type='application/atom+xml'/>
 <link expr:href='data:blog.homepageUrl + &quot;feeds/posts/default?alt=rss&quot;' expr:title='data:blog.title + &quot; - RSS&quot;' rel='alternate' type='application/rss+xml'/>
